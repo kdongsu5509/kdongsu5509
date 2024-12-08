@@ -83,7 +83,7 @@
 [![gidskql6671's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdongsu5509&count_private=true&show_icons=true&theme=dracula)](https://github.com/kdongsu5509)  
 
 ### Solved.ac
-[![gidskql6671's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dongsu108)](https://solved.ac/profile/dongsu108)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongsu108)](https://solved.ac/dongsu108/)<br>
 
 ###
 
