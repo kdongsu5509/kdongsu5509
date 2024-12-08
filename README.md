@@ -82,14 +82,7 @@
 <h2 align="center">🔥   My Stats :</h2>
 
 ###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdongsu5509&show_icons=true&locale=en&layout=compact" alt="kdongsu5509" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdongsu5509&show_icons=true&locale=en" alt="kdongsu5509" /></p>
-
-###
-
-<img src="https://raw.githubusercontent.com/kdongsu5509/kdongsu5509/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kdongsu5509/output/snake.svg" alt="Snake animation" />
 
 
 ## Connect with me  
