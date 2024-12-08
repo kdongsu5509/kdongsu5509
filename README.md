@@ -75,14 +75,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-###
-![Snake animation](https://github.com/kdongsu5509/output/snake.svg)
 
 ###
-<h3>My Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kdongsu5509&show_icons=true&locale=en" alt="kdongsu5509" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdongsu5509&" alt="kdongsu5509" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdongsu5509" alt="kdongsu5509" /></a></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kdongsu5509&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kdongsu5509&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/kdongsu5509/kdongsu5509/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
 
@@ -98,6 +104,3 @@
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdongsu5509%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
-
-    
-    
