@@ -78,17 +78,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdongsu5509&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kdongsu5509&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### About Me
+
+[![gidskql6671's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdongsu5509&count_private=true&show_icons=true&theme=dracula)](https://github.com/kdongsu5509)  
+
+### Solved.ac
+[![gidskql6671's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dongsu108)](https://solved.ac/profile/dongsu108)
 
 ###
-
-<img src="https://raw.githubusercontent.com/kdongsu5509/kdongsu5509/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
 
