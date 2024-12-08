@@ -78,6 +78,12 @@
 ###
 ![Snake animation](https://github.com/kdongsu5509/output/snake.svg)
 
+###
+<h3>My Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kdongsu5509&show_icons=true&locale=en" alt="kdongsu5509" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdongsu5509&" alt="kdongsu5509" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdongsu5509" alt="kdongsu5509" /></a></p>
+
 
 
 <div style="text-align: left;">
