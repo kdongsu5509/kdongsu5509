@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a student who want to be a programmer.<br><br>- 📚 I'm learning Java and Spring.<br>-  I also learn and use Flutter.</p>
+<p align="left">경북대학교 독어독문학과 20학번<br><br>- 📚 Spring과 Flutter로 재미난 것을 만듭니다.<br>-  </p>
 
 ###
 ###
