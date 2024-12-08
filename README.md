@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋 I am DongsuKo</h1>
-
-<h3 align="left">👩‍💻  About Me</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=350&size=50&pause=1000&color=267622&vCenter=true&width=435&lines=Hi%2C+I'm+dongsuKo;Ich+bin+dongsuKo" alt="Typing SVG" /></a>
 
 ###
 
