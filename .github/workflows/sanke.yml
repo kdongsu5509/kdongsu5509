@@ -21,7 +21,7 @@ jobs:
       - name: generate snake.yml
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: kdongsu5509
           outputs: dist/snake.yml?palette=github-dark
 
       - name: push snake.yml to the output branch
