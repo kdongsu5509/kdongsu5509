@@ -3,9 +3,6 @@
 ###
 
 **Department of German Language and Literature, Kyungpook National University**
-
-<br>
-
 **I am Backend Developer**
 
 <br>
