@@ -2,12 +2,11 @@
 
 ###
 
-**Department of German Language and Literature, Kyungpook National University**
-**I am Backend Developer**
+### Department of German Language and Literature, Kyungpook National University
 
+**Backend Developer**
 <br>
-
-**I usually use Java/Spring and Dart/Flutter.**
+**Usually use Java/Spring and Dart/Flutter**
 <br>
 <br>
 <br>
