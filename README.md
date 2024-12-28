@@ -2,7 +2,7 @@
 
 ###
 
-**경북대학교 독어독문학과 20학번**
+**Department of German Language and Literature, Kyungpook National University**
 <br>
 <br>
 <br>
