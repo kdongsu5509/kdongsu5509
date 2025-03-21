@@ -2,13 +2,12 @@
 
 ###
 
-### Department of German Language and Literature, Kyungpook National University
+## Department of German Language and Literature,KNU
 
-**Backend Developer**
-<br>
+### Backend Developer
+
 **Usually use Java/Spring and Dart/Flutter**
-<br>
-<br>
+
 ### About Me
 
 [![gidskql6671's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdongsu5509&count_private=true&show_icons=true&theme=dracula)](https://github.com/kdongsu5509)  
