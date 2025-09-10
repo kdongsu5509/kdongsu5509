@@ -103,7 +103,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2>
   <br>
     <div align= "center">
-      <a href=https://velog.io/@kdongsu5509/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kdongsu5509/posts"> </a>
          <a href=mailto:kod66170@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kod66170@gmail.com"> </a>
          <a href="https://linkedin.com/in/ds-ko"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/ds-ko"> </a>
       </div>
