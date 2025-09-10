@@ -8,7 +8,7 @@
 
 <!-- Proficient -->
 <div>
-  <strong>Proficient</strong>
+  <strong>Main</strong>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 8px;">
     <!-- Languages -->
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -25,7 +25,7 @@
 
 <!-- Actively Studying -->
 <div>
-  <strong>Actively Studying</strong>
+  <strong>Just Using. Not Good</strong>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 8px;">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
     <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -66,6 +66,19 @@
 </div>
 
 ## About Me
+
+#### Community
+- 경북대학교 중앙동아리 앱동(2023.03 ~ 2024.08, 2025.03 ~ 2025.08)
+- 경북대학교 전자공학부 학술동아리 해달 (2023.03 ~ 2025.02, 2025.09 ~ 현재)
+- GDGoC on KNU (2024.09 ~ 2025.06)
+- Notion Campus Leader (2024.09 ~ 2025.07)
+
+#### Award
+- 2024 대구를 빛내는 SW 해커톤 최우수상
+- 2024 CO-SHOW 연계 AIM 챌린지 AICOSS 사업단장상(장려상)
+
+#### Etc
+- 신라시스템 인턴 (2024.07 ~ 2024.08)
 
 <div style="margin-bottom: 20px;">
   <a href="https://github.com/kdongsu5509">
