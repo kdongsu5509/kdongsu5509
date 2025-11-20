@@ -17,15 +17,6 @@
 #### Etc
 - 신라시스템 인턴 (2024.07 ~ 2024.08)
 
-<div style="margin-bottom: 20px;">
-  <a href="https://github.com/kdongsu5509">
-    <img src="https://github-readme-stats.vercel.app/api?username=kdongsu5509&count_private=true&show_icons=true&theme=dracula" alt="kdongsu5509's GitHub stats" />
-  </a>
-  <a href="https://github.com/kdongsu5509">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdongsu5509&layout=compact&theme=dracula&hide_border=true" alt="kdongsu5509's Top Languages" />
-  </a>
-</div>
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 40px;">
 
 #### Solved.ac
