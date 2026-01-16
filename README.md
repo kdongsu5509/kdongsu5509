@@ -4,6 +4,16 @@
 
 ## Backend Developer
 
+<div>
+  <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src= "https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  <img src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src= "https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+</div>
+<br>
+
 #### Community
 - 경북대학교 중앙동아리 앱동(23.03 ~ 24.08, 25.03 ~ 25.08)
 - 경북대학교 전자공학부 학술동아리 해달 (23.03 ~ 25.02, 25.09 ~ 26.02)
@@ -15,7 +25,7 @@
 - 2024 CO-SHOW 연계 AIM 챌린지 AICOSS 사업단장상(장려상)
 
 #### Etc
-- 신라시스템 인턴 (2024.07 ~ 2024.08)
+- 신라시스템 인턴 (2024.07 ~ 2024.08) : 국립공원착한탐방 키오스크 개발 참여
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 40px;">
 
