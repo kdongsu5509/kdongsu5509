@@ -27,16 +27,6 @@
 #### Etc
 - 신라시스템 인턴 (2024.07 ~ 2024.08) : 국립공원착한탐방 키오스크 개발 참여
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 40px;">
-
-#### Solved.ac
-
-<a href="https://solved.ac/dongsu108/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongsu108" alt="Solved.ac Profile"/>
-  </a>
-
-<br>
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2>
   <br>
