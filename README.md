@@ -26,12 +26,16 @@
 #### Etc
 - 신라시스템 인턴 (2024.07 ~ 2024.08) : 국립공원착한탐방 키오스크 개발 참여
 
+<!-- RSS Feeds for Blog Crawlers -->
+<!-- https://rati.tistory.com/rss -->
+<!-- https://kdongsu5509.github.io/rati_study_log/feed.xml -->
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Blog </h2>
     <br>
     <div align="center">
-        <a href="https://rati.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://rati.tistory.com/"> </a>
-        <a href="https://kdongsu5509.github.io/rati_study_log/"> <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https://kdongsu5509.github.io/rati_study_log/"> </a>
+        <a href="https://rati.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> </a>
+        <a href="https://kdongsu5509.github.io/rati_study_log/"> <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"> </a>
     </div>
 </div>
 
@@ -39,7 +43,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2>
     <br>
     <div align="center">
-        <a href="mailto:kod66170@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kod66170@gmail.com"> </a>
-        <a href="https://linkedin.com/in/ds-ko"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/ds-ko"> </a>
+        <a href="mailto:kod66170@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
+        <a href="https://linkedin.com/in/ds-ko"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"> </a>
     </div>
 </div>
