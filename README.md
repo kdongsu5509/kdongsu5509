@@ -26,10 +26,6 @@
 #### Etc
 - 신라시스템 인턴 (2024.07 ~ 2024.08) : 국립공원착한탐방 키오스크 개발 참여
 
-<!-- RSS Feeds for Blog Crawlers -->
-<!-- https://rati.tistory.com/rss -->
-<!-- https://kdongsu5509.github.io/rati_study_log/feed.xml -->
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Blog </h2>
     <br>
@@ -38,6 +34,9 @@
         <a href="https://kdongsu5509.github.io/rati_study_log/"> <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"> </a>
     </div>
 </div>
+
+[//]: # (https://rati.tistory.com/rss)
+[//]: # (https://kdongsu5509.github.io/rati_study_log/feed.xml)
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2>
